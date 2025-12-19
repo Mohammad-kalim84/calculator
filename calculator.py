@@ -2,6 +2,10 @@ def add(num1, num2):
     return round(num1 + num2,2)
 
 
+def mines(num1, num2):
+    return round(num1 - num2,2)
+
+
 def multiply(num1, num2):
     return round(num1 * num2,2)
 
