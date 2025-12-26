@@ -4,6 +4,9 @@ A simple command-line calculator built with Python that evaluates mathematical e
 
 This project was developed to practice Python fundamentals such as functions, conditionals, string parsing, and basic expression evaluation logic.
 
+Developer : Mohammad Kalim
+Supervisor : Daniyal Iran Mehr [GitHub Profile](https://github.com/DaniyalIranMehr)
+
 ---
 
 ## ✨ Features
@@ -33,10 +36,11 @@ This project was developed to practice Python fundamentals such as functions, co
 
 ---
 
+
+
 ## 📂 Project Structure
 
 ```text
 calculator.py   # Main Python script containing all calculator logic
 
-Developer : Mohammad Kalim
-Supervisor : Daniyal Iran Mehr [GitHub Profile](https://github.com/DaniyalIranMehr)
+
