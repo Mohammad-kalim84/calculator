@@ -2,10 +2,11 @@
 
 A simple command-line calculator built with Python that evaluates mathematical expressions with and without parentheses.
 
-This project was developed to practice Python fundamentals such as functions, conditionals, string parsing, and basic expression evaluation logic.
+This project was developed to practice Python fundamentals such as functions, conditionals, string parsing, and basic expression evaluation logic at AIM Startup.
 
 Developer : Mohammad Kalim
-Supervisor : Daniyal Iran Mehr [GitHub Profile](https://github.com/DaniyalIranMehr)
+
+Supervisor : [Daniyal Iran Mehr](https://github.com/DaniyalIranMehr)
 
 ---
 
