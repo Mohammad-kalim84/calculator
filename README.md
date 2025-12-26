@@ -6,7 +6,7 @@ This project was developed to practice Python fundamentals such as functions, co
 
 Developer : Mohammad Kalim
 
-Supervisor : [Daniyal Iran Mehr](https://github.com/DaniyalIranMehr)
+Supervisor : [Daniyal Iran Mehr](https://github.com/DaniaylIranMehr)
 
 ---
 
