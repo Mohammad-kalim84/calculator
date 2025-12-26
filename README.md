@@ -39,4 +39,4 @@ This project was developed to practice Python fundamentals such as functions, co
 calculator.py   # Main Python script containing all calculator logic
 
 Developer : Mohammad Kalim
-Supervisor : Daniyal Iran Mehr [Github : @DaniyalIranMehr]
+Supervisor : Daniyal Iran Mehr [GitHub Profile](https://github.com/DaniyalIranMehr)
