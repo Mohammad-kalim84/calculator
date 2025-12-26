@@ -37,3 +37,6 @@ This project was developed to practice Python fundamentals such as functions, co
 
 ```text
 calculator.py   # Main Python script containing all calculator logic
+
+Developer : Mohammad Kalim
+Supervisor : Daniyal Iran Mehr [Github : @DaniyalIranMehr]
